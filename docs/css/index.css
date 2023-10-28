@@ -26,6 +26,12 @@
     color: blanchedalmond;
 }
 
+.acerca img{
+    width: 25rem;
+    height: auto;
+    border-radius: 50%;
+}
+
 .trabajos{
     background-image: url(https://dkv.es/corporativo/sites/default/files/2022-11/que%20son%20las%20ong.jpg);
     background-repeat: no-repeat;
