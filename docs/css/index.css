@@ -1,0 +1,40 @@
+.navbar img{
+    width: 3rem;
+    height: auto;
+}
+
+.inicio{
+    background-image: url(https://images2.alphacoders.com/117/1171867.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 50%;
+
+    color: antiquewhite;
+}
+
+.inicio img{
+    width: 10rem;
+    height: auto;
+    border-radius: 50%;
+}
+
+.acerca{
+    background-image: url(https://ximhai.com/img/programando.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 50%;
+    color: blanchedalmond;
+}
+
+.trabajos{
+    background-image: url(https://dkv.es/corporativo/sites/default/files/2022-11/que%20son%20las%20ong.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 50%;
+    color: blanchedalmond;
+}
+
+.Contacto{
+    background-color: black;
+    color: antiquewhite;
+}
