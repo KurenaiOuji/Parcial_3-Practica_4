@@ -1,5 +1,5 @@
 .navbar img{
-    width: 3rem;
+    width: 2rem;
     height: auto;
 }
 
@@ -8,7 +8,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 50%;
-
     color: antiquewhite;
 }
 
